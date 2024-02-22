@@ -1,0 +1,20 @@
+{
+  "name": "orderingservice",
+  "version": "1.0.0",
+  "description": "A car ordering service build with express using Object Oriented Principle, Socket.io and express",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "author": "Feranmi Adeyemi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
